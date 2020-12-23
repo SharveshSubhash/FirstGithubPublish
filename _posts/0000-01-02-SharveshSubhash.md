@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: lakssdodkp
+title: "lkgkjoophkk"
 ---
-Your text
+Your share stocks
 Use the left arrow to go back!
